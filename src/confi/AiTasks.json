@@ -1,0 +1,8 @@
+{
+  "college_recommendation": {
+    "title": "College Recommendations",
+    "description": "Get AI-powered college recommendations based on quiz results.",
+    "endpoint": "/api/ai/collegeRecommendation",
+    "method": "POST"
+  }
+}
